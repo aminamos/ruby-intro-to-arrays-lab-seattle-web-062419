@@ -20,13 +20,16 @@ def last_element(arg)
   arg[-1]
 end
 
-def first_element_with_array_methods
+def first_element_with_array_methods(arg)
+  arg.shift
 end
 
 def last_element_with_array_methods
+  arg.pop
 end
 
 def length_of_array
+  arg.
 end
 
 
