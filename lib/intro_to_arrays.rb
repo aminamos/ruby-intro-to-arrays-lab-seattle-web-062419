@@ -24,12 +24,12 @@ def first_element_with_array_methods(arg)
   arg.first
 end
 
-def last_element_with_array_methods
+def last_element_with_array_methods(arg)
   arg.last
 end
 
-def length_of_array
-  arg.
+def length_of_array(arg)
+  arg.length
 end
 
 
